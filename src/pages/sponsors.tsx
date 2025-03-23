@@ -193,7 +193,7 @@ export default async function SponsorsPage() {
                   <li className="space-y-3">
                     <p className="text-xs text-gray-700">開催イベント数</p>
                     <p className="flex items-end justify-end text-5xl font-semibold">
-                      <span>2</span>
+                      <span>3</span>
                       <span className='mr-4 mb-[5px] ml-[14px] h-[30px] w-[30px] bg-[#a5a5a5] [mask-image:url("/images/sponsors/flag.svg")] [mask-position:center] [mask-repeat:no-repeat] [mask-size:cover]'></span>
                     </p>
                   </li>
@@ -202,19 +202,19 @@ export default async function SponsorsPage() {
                       累計イベント参加人数（参加希望含む）
                     </p>
                     <p className="flex items-end justify-end text-5xl font-semibold">
-                      <span>176</span>
+                      <span>276</span>
                       <span className='mr-4 mb-[5px] h-[45px] w-[45px] bg-[#a5a5a5] [mask-image:url("/images/sponsors/person.svg")] [mask-position:center] [mask-repeat:no-repeat] [mask-size:cover]'></span>
                     </p>
                   </li>
                   <li className="space-y-3">
                     <p className="text-xs text-gray-700">Discord参加人数</p>
                     <p className="flex items-end justify-end text-5xl font-semibold">
-                      <span>854</span>
+                      <span>1,063</span>
                       <span className='mr-4 mb-[5px] h-[45px] w-[45px] bg-[#a5a5a5] [mask-image:url("/images/sponsors/person.svg")] [mask-position:center] [mask-repeat:no-repeat] [mask-size:cover]'></span>
                     </p>
                   </li>
                   <li>
-                    <p className="text-right text-xs">*2025年2月現在</p>
+                    <p className="text-right text-xs">*2025年3月現在</p>
                   </li>
                 </ul>
               </div>
